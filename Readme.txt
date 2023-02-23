@@ -16,5 +16,5 @@ How to run the Beauty Palour Management System (BPMS) Project
 
 Credential for admin panel :
 
-Username: admin
-Password: Test@123
+Username:admin
+Password:Test@123
